@@ -61,7 +61,7 @@ After conducting a full investigation, I determined that this specific brute for
 
 ## 2. Closing the Incident
 
-Finally, I classified this incident as a False Positive - Incorrect Alert Logic (, and closed it within Microsoft Sentinel (Screenshot 16). Though it was a false positive, I initiated actions to harden the NSGs across the affected VM infrastructure to prevent potential real brute force attacks in the future.
+Finally, I classified this incident as a False Positive - Incorrect Alert Logic, and closed it within Microsoft Sentinel (Screenshot 16). Though it was a false positive, I initiated actions to harden the NSGs across the affected VM infrastructure to prevent potential real brute force attacks in the future.
 
 ![see Screenshot 15](https://i.imgur.com/glpKXdG.jpeg)
 
